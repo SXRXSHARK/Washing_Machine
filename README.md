@@ -1,2 +1,10 @@
-# Spaceship-Warriors-Project
-Development journal for an embedded washing machine control system. Covers on/off logic with audio feedback, potentiometer-based temperature (40/50/60°C) and cycle selection (Cottons, Synthetics, Delicates, Quick Wash), door-safety detection via LDR, a seven-segment countdown timer, emergency stop, and a serial status interface.
+Hello-World-Template
+  ===========
+  
+
+*Template from which serial output commands can be added.
+         
+  MBED Studio version: 1.4.1 
+  MBED OS version: 6.8.0
+  Board: NUCLEO L476RG 
+  Author: James Chandler 2021
